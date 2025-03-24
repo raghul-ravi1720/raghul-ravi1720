@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raghul R</h1>
-<h3 align="center">A aspiring Web Developer</h3>
+<h3 align="center">A aspiring Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghul-ravi1720&label=Profile%20views&color=0e75b6&style=flat" alt="raghul-ravi1720" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghul-ravi1720" alt="raghul-ravi1720" /></a> </p>
 
-- 🌱 I’m currently learning *React,Django,JS*
+- 🌱 I’m currently learning *AI,NLP,Gen AI*
 
-- 💬 Ask me about *Python,SQL*
+- 💬 Ask me about *Python,SQL,Django,API,*
 
 - 📫 How to reach me *raghulravi245@gmail.com*
 
